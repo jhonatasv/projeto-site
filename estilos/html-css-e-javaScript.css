@@ -1,5 +1,4 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
 
@@ -8,6 +7,7 @@ body {
 }
 
 main {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: white;
     max-width: 560px;
     padding: 10px;
@@ -18,10 +18,6 @@ main {
 h1 {
     font-size: 1.8em;
     color: #3A0070;
-}
-
-a {
-    margin-right: 100%;
 }
 
 .video {
